@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/React-Invoice/static/css/main.d795ad91.chunk.css",
+    "main.js": "/React-Invoice/static/js/main.b01e1076.chunk.js",
+    "main.js.map": "/React-Invoice/static/js/main.b01e1076.chunk.js.map",
+    "runtime-main.js": "/React-Invoice/static/js/runtime-main.18348d51.js",
+    "runtime-main.js.map": "/React-Invoice/static/js/runtime-main.18348d51.js.map",
+    "static/js/2.3bc6d262.chunk.js": "/React-Invoice/static/js/2.3bc6d262.chunk.js",
+    "static/js/2.3bc6d262.chunk.js.map": "/React-Invoice/static/js/2.3bc6d262.chunk.js.map",
+    "static/js/3.c8df12cb.chunk.js": "/React-Invoice/static/js/3.c8df12cb.chunk.js",
+    "static/js/3.c8df12cb.chunk.js.map": "/React-Invoice/static/js/3.c8df12cb.chunk.js.map",
+    "static/js/4.625ba176.chunk.js": "/React-Invoice/static/js/4.625ba176.chunk.js",
+    "static/js/4.625ba176.chunk.js.map": "/React-Invoice/static/js/4.625ba176.chunk.js.map",
+    "static/js/5.d679c0c6.chunk.js": "/React-Invoice/static/js/5.d679c0c6.chunk.js",
+    "static/js/5.d679c0c6.chunk.js.map": "/React-Invoice/static/js/5.d679c0c6.chunk.js.map",
+    "index.html": "/React-Invoice/index.html",
+    "static/css/main.d795ad91.chunk.css.map": "/React-Invoice/static/css/main.d795ad91.chunk.css.map",
+    "static/js/2.3bc6d262.chunk.js.LICENSE.txt": "/React-Invoice/static/js/2.3bc6d262.chunk.js.LICENSE.txt",
+    "static/js/3.c8df12cb.chunk.js.LICENSE.txt": "/React-Invoice/static/js/3.c8df12cb.chunk.js.LICENSE.txt",
+    "static/js/4.625ba176.chunk.js.LICENSE.txt": "/React-Invoice/static/js/4.625ba176.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18348d51.js",
+    "static/js/3.c8df12cb.chunk.js",
+    "static/css/main.d795ad91.chunk.css",
+    "static/js/main.b01e1076.chunk.js"
+  ]
+}
